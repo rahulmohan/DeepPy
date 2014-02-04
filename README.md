@@ -1,4 +1,6 @@
 DeepPy
 ======
 
-DeepPy -- a Python Deep Learning Library  ===============================================
+DeepPy -- a Python Deep Learning Library 
+
+===============================================
