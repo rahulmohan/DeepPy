@@ -10,6 +10,7 @@ Todo:
   - Backpropogation
   - Genetic Algorithms
   - Newton's Method
+- DropOut Regularization
 - Sparse Autoencoder
 - Sparse Coding
 - Stacked Autoencoders
