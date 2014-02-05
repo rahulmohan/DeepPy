@@ -3,13 +3,19 @@ DeepPy
 
 DeepPy -- a Python Machine Learning Library focusing on Deep Learning
 
+Done:
+
+- Simple Perceptron + Kernel Perceptron Binary Classification
+  - TODO: 
+    - Extend to multiclass
+    - Add more kernels
+    - Add examples
+    
 Todo:
 
-- Simple Perceptron
 - Multi-Layered Peceptron
   - Backpropogation
   - Genetic Algorithms
-  - Newton's Method
 - DropOut Regularization
 - Sparse Autoencoder
 - Sparse Coding
@@ -30,6 +36,3 @@ Todo:
 - Kernel Methods for Feature Learning
 - K-Means for Feature Learning
 - Lazy Learning for Feature Learning
-
-
-
